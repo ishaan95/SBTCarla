@@ -6,4 +6,5 @@ The goal of SBTCarla is to take multiple modes of inputs to run scenarios in the
 * Json config files defining sparse details of scenarios. Rest is assumed by SBTCarla
 * A list of OpenDrive files
 * A list of OpenScenario files.
+
 SBTCarla should have a common interface to take all of these inputs. It should also have the capability to procedurally generate taking in an OpenDrive input. 
